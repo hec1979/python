@@ -1,2 +1,2 @@
 # python
-A series of python example from y training 
+A series of python examples from my training 
